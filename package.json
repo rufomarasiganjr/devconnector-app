@@ -1,7 +1,7 @@
 {
   "name": "devconnector-app",
   "version": "1.0.0",
-  "description": "Social Network for developers",
+  "description": "Social Network for Developers",
   "main": "server.js",
   "scripts": {
     "start": "node server",
